@@ -44,7 +44,7 @@
     "anime:sync": "node scripts/anime/sync.mjs",
     "fonts:check": "node scripts/fonts/check-fonts.mjs",
     "fonts:subset": "node scripts/fonts/subset-fonts.mjs",
-    "build": "node scripts/content/sync.mjs && node scripts/icons/generate-local-icons.mjs && node scripts/images/generate-moment-thumbnails.mjs && node scripts/fonts/subset-fonts.mjs && astro build && npx pagefind --site dist && node scripts/fonts/check-fonts.mjs",
+    "build": "node scripts/content/sync.mjs && node scripts/icons/generate-local-icons.mjs && node scripts/images/generate-moment-thumbnails.mjs && tsx scripts/fonts/subset-fonts.mjs && astro build && npx pagefind --site dist && node scripts/fonts/check-fonts.mjs",
     "preview": "astro preview",
     "lighthouse:collect": "lhci collect --config=lighthouserc.cjs",
     "lighthouse:assert": "lhci assert --config=lighthouserc.cjs",
@@ -135,6 +135,7 @@
     "@types/qrcode": "^1.5.6",
     "@types/sanitize-html": "^2.16.1",
     "esbuild": "^0.28.2",
+    "tsx": "^4.23.13",
     "vite": "^8.2.1"
   },
   "packageManager": "pnpm@9.14.4"
