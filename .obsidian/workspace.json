@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "306c683ad9d5ea42",
+    "type": "split",
+    "children": [
+      {
+        "id": "da6efb790e1d0a5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde4367136c82d6e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "src/assets/images/demo-avatar.webp"
+              },
+              "icon": "lucide-image",
+              "title": "demo-avatar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92edb211a2c5064f",
+    "type": "split",
+    "children": [
+      {
+        "id": "805da491b9681af9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85630f3383a4d298",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ce549fc019e18e3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "da2cf1145f04b451",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "779f18467bea08d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "48cf405b539e2ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b194dfbbf2af92c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/assets/images/demo-avatar.webp",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "demo-avatar 的反向链接列表"
+            }
+          },
+          {
+            "id": "0204a6673b5fed7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/assets/images/demo-avatar.webp",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "demo-avatar 的出链列表"
+            }
+          },
+          {
+            "id": "b5b380971627b44d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a6a94a3e0d546b62",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "fe4163e940057c81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/assets/images/demo-avatar.webp",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "demo-avatar 的大纲"
+            }
+          },
+          {
+            "id": "b4cbad8dc434aa84",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "85630f3383a4d298",
+  "lastOpenFiles": [
+    "src/assets/images/deepseek1.jpg",
+    "src/assets/images/music/xryx.webp",
+    "src/assets/images/music/hitori.webp",
+    "src/assets/images/music/dazbee.webp",
+    "src/assets/images/music/cl.webp",
+    "src/assets/images/banner/mobile/1.webp",
+    "src/assets/images/banner/desktop/1.webp",
+    "src/content/posts/guide/index.md",
+    "src/content/posts/guide/cover.jpeg",
+    "src/content/moments/2026-08-15-welcome.md",
+    "src/content/moments/2026-08-12-riverside.md",
+    "src/content/moments/2026-08-08-late-night-coding.md",
+    "src/content/moments/2026-08-03-film-roll.md",
+    "src/content/moments/2026-07-30-desk-setup.md",
+    "src/content/moments/2026-07-27-reading.md"
+  ]
+}
