@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da6efb790e1d0a5e",
+        "id": "de45b7376e7a32da",
         "type": "tabs",
         "children": [
           {
-            "id": "dde4367136c82d6e",
+            "id": "eeaf942b5b07fe2a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "src/assets/images/demo-avatar.webp"
+                "file": "src/content/posts/blog/1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "demo-avatar"
+              "icon": "lucide-file",
+              "title": "1"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/assets/images/demo-avatar.webp",
+                "file": "src/assets/images/music/9lana.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "demo-avatar 的反向链接列表"
+              "title": "9lana 的反向链接列表"
             }
           },
           {
@@ -111,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/assets/images/demo-avatar.webp",
+                "file": "src/assets/images/music/9lana.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "demo-avatar 的出链列表"
+              "title": "9lana 的出链列表"
             }
           },
           {
@@ -154,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/assets/images/demo-avatar.webp",
+                "file": "src/assets/images/music/9lana.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "demo-avatar 的大纲"
+              "title": "9lana 的大纲"
             }
           },
           {
@@ -189,20 +193,32 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "astro-composer:打开项目终端": false,
+      "astro-composer:编辑 Astro 配置": false
     }
   },
-  "active": "85630f3383a4d298",
+  "active": "eeaf942b5b07fe2a",
   "lastOpenFiles": [
-    "src/assets/images/deepseek1.jpg",
+    "src/content/posts/blog/笔记.md",
+    "src/content/posts/blog/1.md",
+    "src/content/posts/blog",
+    "src/content/posts/blog/.md",
+    "src/assets/images/deepseek.webp",
     "src/assets/images/music/xryx.webp",
     "src/assets/images/music/hitori.webp",
     "src/assets/images/music/dazbee.webp",
     "src/assets/images/music/cl.webp",
+    "src/assets/images/music/9lana.webp",
+    "public/assets/music/url/9lana-rasen-acoustic.mp3",
+    "9Lana.webp",
+    "9Lana+-+螺旋+-+RASEN+-+Acoustic+Ver.+-.mp3",
+    "src/assets/images/banner/mobile/2.webp",
     "src/assets/images/banner/mobile/1.webp",
-    "src/assets/images/banner/desktop/1.webp",
+    "src/assets/images/banner/mobile/2.jpg",
+    "src/assets/images/banner/desktop/psFE3F.tmp",
+    "src/assets/images/ps9254.tmp",
     "src/content/posts/guide/index.md",
-    "src/content/posts/guide/cover.jpeg",
     "src/content/moments/2026-08-15-welcome.md",
     "src/content/moments/2026-08-12-riverside.md",
     "src/content/moments/2026-08-08-late-night-coding.md",
