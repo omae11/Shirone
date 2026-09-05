@@ -1,13 +1,19 @@
 ---
-title: "Shirone Authoring & Usage Guide"
+title: Shirone Authoring & Usage Guide
 published: 2026-08-26
 updated: 2026-08-26
 pinned: true
-description: "A comprehensive guide to post authoring, frontmatter schema, Markdown extensions, encryption, and media in Shirone."
-image: "./cover.jpeg"
-tags: ["Shirone", "Guide", "Markdown", "M3E", "Blogging"]
+description: A comprehensive guide to post authoring, frontmatter schema, Markdown extensions, encryption, and media in Shirone.
+image: ./cover.jpeg
+tags:
+  - Shirone
+  - Guide
+  - Markdown
+  - M3E
+  - Blogging
 category: Guides
-draft: false
+draft: true
+date: 2026-09-05
 ---
 
 Welcome to **Shirone** (白音) — an expressive, anime-inspired blog theme crafted around **Astro 7**, **Svelte 5**, and the **Material 3 Expressive (M3E)** design system.
@@ -61,21 +67,21 @@ comment: true
 
 ### Supported Frontmatter Fields
 
-| Field | Type | Required | Description |
-| :--- | :--- | :---: | :--- |
-| `title` | `string` | **Yes** | The main title of the post. |
-| `published` | `Date` | **Yes** | Publication date in `YYYY-MM-DD` format. |
-| `publishedAt` | `Date` | No | Precise publication instant used to order posts published on the same day. It must fall on `published` in the configured site time zone. |
-| `updated` | `Date` | No | Last updated date. When provided, an update notice badge is displayed. |
-| `updatedAt` | `Date` | No | Precise update instant used by feeds and machine-readable metadata. It must be paired with `updated`. |
-| `pinned` | `boolean` | No | Pin the post to the top of article lists (default: `false`). |
-| `description` | `string` | No | Post summary displayed in article cards, search results, and OpenGraph metadata. |
-| `image` | `string` | No | Cover image path. Supports relative (`./cover.webp`), public (`/images/cover.jpg`), or remote URLs. |
-| `tags` | `string[]` | No | Array of tag names for taxonomy filtering and tag clouds. |
-| `category` | `string` | No | Primary category name for taxonomy indexing. |
-| `draft` | `boolean` | No | Mark as draft. Draft posts are hidden during production build (`pnpm build`). |
-| `comment` | `boolean` | No | Toggle comment section for this specific post (default: `true`). |
-| `lang` | `string` | No | Language code (e.g. `en`, `zh_CN`, `ja`) if different from site default. |
+| Field         | Type       | Required | Description                                                                                                                              |
+| :------------ | :--------- | :------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| `title`       | `string`   | **Yes**  | The main title of the post.                                                                                                              |
+| `published`   | `Date`     | **Yes**  | Publication date in `YYYY-MM-DD` format.                                                                                                 |
+| `publishedAt` | `Date`     |    No    | Precise publication instant used to order posts published on the same day. It must fall on `published` in the configured site time zone. |
+| `updated`     | `Date`     |    No    | Last updated date. When provided, an update notice badge is displayed.                                                                   |
+| `updatedAt`   | `Date`     |    No    | Precise update instant used by feeds and machine-readable metadata. It must be paired with `updated`.                                    |
+| `pinned`      | `boolean`  |    No    | Pin the post to the top of article lists (default: `false`).                                                                             |
+| `description` | `string`   |    No    | Post summary displayed in article cards, search results, and OpenGraph metadata.                                                         |
+| `image`       | `string`   |    No    | Cover image path. Supports relative (`./cover.webp`), public (`/images/cover.jpg`), or remote URLs.                                      |
+| `tags`        | `string[]` |    No    | Array of tag names for taxonomy filtering and tag clouds.                                                                                |
+| `category`    | `string`   |    No    | Primary category name for taxonomy indexing.                                                                                             |
+| `draft`       | `boolean`  |    No    | Mark as draft. Draft posts are hidden during production build (`pnpm build`).                                                            |
+| `comment`     | `boolean`  |    No    | Toggle comment section for this specific post (default: `true`).                                                                         |
+| `lang`        | `string`   |    No    | Language code (e.g. `en`, `zh_CN`, `ja`) if different from site default.                                                                 |
 
 ---
 
