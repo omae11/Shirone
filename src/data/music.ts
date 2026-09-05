@@ -14,6 +14,13 @@ import type { TrackDescriptor } from "@/types/musicConfig";
  */
 export const musicTracks: readonly TrackDescriptor[] = [
 	{
+		id: "9lana-rasen-acoustic",
+		title: "螺旋 - RASEN - Acoustic Ver. -",
+		artist: "9Lana",
+		cover: "assets/images/music/9lana.webp",
+		source: "/assets/music/url/9lana-rasen-acoustic.mp3",
+	},
+	{
 		id: "dazbee",
 		title: "口笛で愛は歌えない",
 		artist: "Dazbee",
