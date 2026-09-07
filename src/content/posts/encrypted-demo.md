@@ -6,6 +6,7 @@ description: A demonstration of client-side authenticated decryption, memory ses
 tags: [Demo, Security, Encryption, Markdown]
 category: Examples
 lang: en
+draft: true
 encrypted: true
 password: "shirone-secret"
 passwordHint: "Hint: the demo unlock password is shirone-secret"
