@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "provider": "bilibili",
-  "fetchedAt": "2026-09-09T08:24:43.817Z",
+  "fetchedAt": "2026-09-09T14:59:34.589Z",
   "accountRef": "302087",
   "items": [
     {
       "title": "时光代理人 第三季",
       "status": "watching",
-      "rating": 8.6,
+      "rating": 8.5,
       "progress": {
         "watched": 0,
         "total": 12
@@ -105,6 +105,30 @@
       }
     },
     {
+      "title": "间谍过家家 第三季",
+      "status": "watching",
+      "rating": 0,
+      "progress": {
+        "watched": 0,
+        "total": 13
+      },
+      "year": "2025",
+      "genres": [
+        "漫画改",
+        "搞笑",
+        "日常"
+      ],
+      "cover": "/assets/anime/covers/bili_112827.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss112827",
+      "description": "每个人都有不可告人的一面。 这是一个世界各国均暗地里进行激烈情报战的时代。奥斯塔尼亚（Ostania）与维斯达利斯（Westalis）的冷战状态已经持续数十年。 是维斯达利斯情报局奥斯塔尼...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "27709925",
+        "seasonId": "112827"
+      }
+    },
+    {
       "title": "魔女与使魔",
       "status": "watching",
       "rating": 9.6,
@@ -197,6 +221,321 @@
         "provider": "bilibili",
         "sourceId": "28235360",
         "seasonId": "39666"
+      }
+    },
+    {
+      "title": "葬送的芙莉莲",
+      "status": "watching",
+      "rating": 9.9,
+      "progress": {
+        "watched": 0,
+        "total": 28
+      },
+      "year": "2023",
+      "genres": [
+        "漫画改",
+        "奇幻",
+        "治愈",
+        "冒险",
+        "催泪"
+      ],
+      "cover": "/assets/anime/covers/bili_46089.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss46089",
+      "description": "寿命逾千年的魔法使芙莉莲，以曾经共同战胜魔王的勇者辛美尔之死为契机，踏上了了解人类的旅途。 邂逅了同属勇者小队的僧侣海塔与战士艾泽分别培养出的菲伦与休塔尔克，芙莉莲与二人一同前往灵魂安眠之地。去往此...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "21087073",
+        "seasonId": "46089"
+      }
+    },
+    {
+      "title": "莉可丽丝",
+      "status": "watching",
+      "rating": 9.2,
+      "progress": {
+        "watched": 0,
+        "total": 13
+      },
+      "year": "2022",
+      "genres": [
+        "日常",
+        "战斗",
+        "原创"
+      ],
+      "cover": "/assets/anime/covers/bili_42176.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss42176",
+      "description": "安宁的日常——背后却暗藏秘密 将犯罪防患于未然的秘密组织——“DA（Direct Attack）” 隶属于DA的少女特工——“莉可丽丝” 理所当然的日常，都要归功于她们。 咖啡厅“莉可莉可” 作为...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28338623",
+        "seasonId": "42176"
+      }
+    },
+    {
+      "title": "我们的重制人生",
+      "status": "watching",
+      "rating": 9.6,
+      "progress": {
+        "watched": 0,
+        "total": 12
+      },
+      "year": "2021",
+      "genres": [
+        "日常",
+        "校园",
+        "小说改",
+        "社团",
+        "励志"
+      ],
+      "cover": "/assets/anime/covers/bili_38865.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss38865",
+      "description": "2016年，桥场恭也就职于一家普通的游戏公司。然而有一天，公司作为债务抵押品被扣，社长失踪，他失业了。 他在电视上看到与他同龄的创作大神们的活跃表现，不由钦佩憧憬的同时，也开始对过往浑浑噩噩的人生感到...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28234556",
+        "seasonId": "38865"
+      }
+    },
+    {
+      "title": "虚构推理",
+      "status": "watching",
+      "rating": 9.2,
+      "progress": {
+        "watched": 0,
+        "total": 12
+      },
+      "year": "2020",
+      "genres": [
+        "奇幻",
+        "恋爱",
+        "推理",
+        "漫画改",
+        "神魔"
+      ],
+      "cover": "/assets/anime/covers/bili_29366.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss29366",
+      "description": "成为“怪异”们的智慧之神，每天都在解决着“怪异”们带来的麻烦的少女·岩永琴子，她一见钟情的对象·樱川九郎，是个让“怪异”都感到畏惧的男人！？ 这样毫不普通的两人，迎战“怪异”们引发的神秘事件的［恋爱×...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28224145",
+        "seasonId": "29366"
+      }
+    },
+    {
+      "title": "Ｄｒ．ＳＴＯＮＥ 石纪元",
+      "status": "watching",
+      "rating": 9.7,
+      "progress": {
+        "watched": 0,
+        "total": 24
+      },
+      "year": "2019",
+      "genres": [
+        "热血",
+        "科幻",
+        "漫画改",
+        "励志",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_27993.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss27993",
+      "description": "全人类因神秘现象瞬间被石化后，过了数千年——。 拥有超人头脑的科学少年千空苏醒了。 面对文明灭绝的石之世界， 千空决心用科学的力量夺回这个世界。 让体力过人的青梅竹马·大木大树苏醒， 要从零开始创造...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28221387",
+        "seasonId": "27993"
+      }
+    },
+    {
+      "title": "街角魔族",
+      "status": "watching",
+      "rating": 9.8,
+      "progress": {
+        "watched": 0,
+        "total": 12
+      },
+      "year": "2019",
+      "genres": [
+        "日常",
+        "奇幻",
+        "搞笑",
+        "萌系",
+        "魔法",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_28007.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss28007",
+      "description": "某天早晨，突然觉醒了暗之力量的女高中生·吉田优子，为了解除一族所遭受的诅咒而准备开始打倒魔法少女！！但对方却是自己的救命恩人！？而且根本就没可能打赢！？废柴系庶民派魔族与高冷系肌肉魔法少女编织的日常系...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28221404",
+        "seasonId": "28007"
+      }
+    },
+    {
+      "title": "鬼灭之刃",
+      "status": "watching",
+      "rating": 9.7,
+      "progress": {
+        "watched": 0,
+        "total": 26
+      },
+      "year": "2019",
+      "genres": [
+        "热血",
+        "奇幻",
+        "战斗",
+        "声控",
+        "漫画改",
+        "励志"
+      ],
+      "cover": "/assets/anime/covers/bili_26801.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss26801",
+      "description": "大正时期，日本。心地善良的卖炭少年·炭治郎，有一天他的家人被鬼杀死了。而唯一幸存下来的妹妹——祢豆子变成了鬼。被绝望的现实打垮的炭治郎，为了寻找让妹妹变回人类的方法，决心朝着“鬼杀队”的道路前进。 人...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "22718131",
+        "seasonId": "26801"
+      }
+    },
+    {
+      "title": "紫罗兰永恒花园",
+      "status": "watching",
+      "rating": 9.8,
+      "progress": {
+        "watched": 0,
+        "total": 14
+      },
+      "year": "2018",
+      "genres": [
+        "治愈",
+        "催泪",
+        "小说改",
+        "励志",
+        "职场",
+        "架空"
+      ],
+      "cover": "/assets/anime/covers/bili_21542.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss21542",
+      "description": "某个大陆的、某个时代。 大陆南北分割的战争结束了，世界走向了和平。 在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。 踊跃的人群在排列着煤气灯...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "8892",
+        "seasonId": "21542"
+      }
+    },
+    {
+      "title": "小林家的龙女仆",
+      "status": "watching",
+      "rating": 9.7,
+      "progress": {
+        "watched": 0,
+        "total": 14
+      },
+      "year": "2017",
+      "genres": [
+        "日常",
+        "搞笑",
+        "萌系",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_5800.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss5800",
+      "description": "在单身的辛苦OL小林身边突然出现的女仆装束的美少女托尔。 长着角和尾巴的她的身姿正是所谓的龙娘。 在醉酒的小林邀请下说要到家里去的托尔，鬼使神差地开始以小林家女仆的身份工作……！？ “女仆”+“龙”=...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "5800",
+        "seasonId": "5800"
+      }
+    },
+    {
+      "title": "Charlotte",
+      "status": "watching",
+      "rating": 9.5,
+      "progress": {
+        "watched": 0,
+        "total": 13
+      },
+      "year": "2015",
+      "genres": [
+        "日常",
+        "治愈",
+        "奇幻",
+        "校园",
+        "催泪",
+        "原创"
+      ],
+      "cover": "/assets/anime/covers/bili_2572.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss2572",
+      "description": "思春期的少年少女中极少部分人会发作的特殊能力。 驱使着无人知晓的能力，过着顺风顺水学园生活的乙坂有宇。 突然出现在这样的他的面前的少女，友利奈绪。 从与她相遇的那一天起，被揭露出特殊能力者的宿命。 这...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "2572",
+        "seasonId": "2572"
+      }
+    },
+    {
+      "title": "冰菓",
+      "status": "watching",
+      "rating": 9.8,
+      "progress": {
+        "watched": 0,
+        "total": 23
+      },
+      "year": "2012",
+      "genres": [
+        "日常",
+        "校园",
+        "恋爱",
+        "推理",
+        "社团",
+        "悬疑"
+      ],
+      "cover": "/assets/anime/covers/bili_3398.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss3398",
+      "description": "在众多将要展开「玫瑰色」生活的高中生之中，本作的男主角折木奉太郎却是一个「灰色」的节能主义者。凡是没必要的事就不做，因为不想后悔，被人说是疏离、厌世也无所谓，因为这就是他的作风。这样的折木奉太郎，却因...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "3398",
+        "seasonId": "3398"
+      }
+    },
+    {
+      "title": "CLANNAD",
+      "status": "watching",
+      "rating": 9.9,
+      "progress": {
+        "watched": 0,
+        "total": 23
+      },
+      "year": "2007",
+      "genres": [
+        "治愈",
+        "时泪",
+        "校园",
+        "催泪",
+        "恋爱",
+        "社团"
+      ],
+      "cover": "/assets/anime/covers/bili_1177.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss1177",
+      "description": "冈崎朋也因家庭因素成为不良少年，一直与春原阳平为伍，在光坂高校过着潦倒的生活，但希望终有一天能够离开所在的小镇。某一天，他在学校坡道前发现了一个止步不前的女孩，在朋也认识了这个名为“古河渚”的女孩后，...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "1177",
+        "seasonId": "1177"
       }
     },
     {
