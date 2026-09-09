@@ -40,6 +40,30 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://m3.material.io",
 		tags: ["Design"],
 	},
+	{
+		id: 4,
+		title: "Olinl Blog",
+		imgurl: "https://blog.olinl.com/assets/images/avatar.webp",
+		desc: "记录技术成长路上的思考、实践与技术探索",
+		siteurl: "https://blog.olinl.com/",
+		tags: ["Blog", "技术"],
+	},
+	{
+		id: 5,
+		title: "番茄主理人 - fqzlr",
+		imgurl: "https://q1.qlogo.cn/g?b=qq&nk=20447289&s=640",
+		desc: "番茄主理人的个人博客",
+		siteurl: "https://blog.fqzlr.top/",
+		tags: ["Blog"],
+	},
+	{
+		id: 6,
+		title: "张萌萌",
+		imgurl: "https://zmm.nw177.cn/_astro/avatar.hC2Dhei1_HLwde.webp",
+		desc: "张萌萌的个人博客",
+		siteurl: "https://zmm.nw177.cn/",
+		tags: ["Blog"],
+	},
 ];
 
 // 获取所有友情链接数据（稳定顺序，测试可复现）

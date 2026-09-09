@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "provider": "bilibili",
+  "fetchedAt": "2026-09-09T08:24:43.817Z",
+  "accountRef": "302087",
+  "items": [
+    {
+      "title": "时光代理人 第三季",
+      "status": "watching",
+      "rating": 8.6,
+      "progress": {
+        "watched": 0,
+        "total": 12
+      },
+      "year": "2026",
+      "genres": [
+        "原创",
+        "奇幻",
+        "治愈",
+        "悬疑"
+      ],
+      "cover": "/assets/anime/covers/bili_105212.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss105212",
+      "description": "【第2-6集大会员抢先，第7集起大会员专享】李天辰事件告一段落后，时光照相馆恢复了表面的平静，然而夏斐失踪的消息再次将众人卷入了命运的交叉点。随着Vein的回归与乔苓超能力的觉醒，程小时和陆光逐步触及...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "26949780",
+        "seasonId": "105212"
+      }
+    },
+    {
+      "title": "胆大党 第二季",
+      "status": "watching",
+      "rating": 9.7,
+      "progress": {
+        "watched": 0,
+        "total": 12
+      },
+      "year": "2025",
+      "genres": [
+        "漫画改",
+        "奇幻",
+        "战斗",
+        "搞笑"
+      ],
+      "cover": "/assets/anime/covers/bili_101758.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss101758",
+      "description": "出生于灵媒师家族的女高中生·小桃，与她同年级的超自然爱好者·厄卡伦。 小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。 “相信幽灵存在但否定外星人存在”的小桃，...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "26599373",
+        "seasonId": "101758"
+      }
+    },
+    {
+      "title": "胆大党 第二季 中配版",
+      "status": "watching",
+      "rating": 9.4,
+      "progress": {
+        "watched": 0,
+        "total": 12
+      },
+      "year": "2025",
+      "genres": [
+        "漫画改",
+        "奇幻",
+        "战斗",
+        "搞笑"
+      ],
+      "cover": "/assets/anime/covers/bili_112243.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss112243",
+      "description": "出生于灵媒师家族的女高中生·小桃，与她同年级的超自然爱好者·厄卡伦。 小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。 “相信幽灵存在但否定外星人存在”的小桃，...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "27652141",
+        "seasonId": "112243"
+      }
+    },
+    {
+      "title": "薰香花朵凛然绽放",
+      "status": "watching",
+      "rating": 9.6,
+      "progress": {
+        "watched": 0,
+        "total": 13
+      },
+      "year": "2025",
+      "genres": [
+        "漫画改",
+        "日常",
+        "校园",
+        "恋爱"
+      ],
+      "cover": "/assets/anime/covers/bili_102173.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss102173",
+      "description": "窗帘的另一头，是和我永远没有交集的世界—— 差生云集的底层男校千鸟高中，一直被历史悠久的贵族女校桔梗女校所鄙视。尽管两校的校舍相邻，但桔梗女校从来都是将窗帘拉得严严实实，不让千鸟高中的人看到人影。在...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "26641346",
+        "seasonId": "102173"
+      }
+    },
+    {
+      "title": "魔女与使魔",
+      "status": "watching",
+      "rating": 9.6,
+      "progress": {
+        "watched": 0,
+        "total": 25
+      },
+      "year": "2025",
+      "genres": [
+        "漫画改",
+        "奇幻",
+        "搞笑",
+        "日常",
+        "校园",
+        "魔法"
+      ],
+      "cover": "/assets/anime/covers/bili_91466.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss91466",
+      "description": "她的魔法，超乎想象！少女妮可正在进行成为魔女的修行，和青梅竹马、拥有鬼族力量的高中生乙木守仁住到了一起。与青梅竹马的重逢让妮可心跳加速，但守仁却肩负着在预言的灾祸中守护妮可的使命。妮可的魔法引发难以预...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "25546984",
+        "seasonId": "91466"
+      }
+    },
+    {
+      "title": "胆大党",
+      "status": "watching",
+      "rating": 9.7,
+      "progress": {
+        "watched": 0,
+        "total": 12
+      },
+      "year": "2024",
+      "genres": [
+        "科幻",
+        "战斗",
+        "恋爱",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_48744.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss48744",
+      "description": "出生于灵媒师家族的女高中生·小桃，与她同年级的超自然爱好者·厄卡伦。 小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。 “相信幽灵存在但否定外星人存在”的小桃，...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "23013233",
+        "seasonId": "48744"
+      }
+    },
+    {
+      "title": "胆大党 中配版",
+      "status": "watching",
+      "rating": 9.5,
+      "progress": {
+        "watched": 0,
+        "total": 12
+      },
+      "year": "2024",
+      "genres": [
+        "漫画改",
+        "战斗"
+      ],
+      "cover": "/assets/anime/covers/bili_92889.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss92889",
+      "description": "出生于灵媒师家族的女高中生·小桃，与她同年级的超自然爱好者·厄卡伦。 小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。 “相信幽灵存在但否定外星人存在”的小桃，...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "25690070",
+        "seasonId": "92889"
+      }
+    },
+    {
+      "title": "时光代理人 第二季",
+      "status": "watching",
+      "rating": 9.1,
+      "progress": {
+        "watched": 0,
+        "total": 12
+      },
+      "year": "2023",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_39666.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss39666",
+      "description": "为了找到一系列罪案的操纵者，程小时求助于肖力，找寻一切藏匿于暗中的蛛丝马迹。但是拥有未知超能力的凶手在阴影之中，也从没有停止过他的阴谋。神秘少年如影随形，身边伙伴接连遇害，程小时屡次身陷险境。随着追查...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28235360",
+        "seasonId": "39666"
+      }
+    },
+    {
+      "title": "名侦探柯南",
+      "status": "watching",
+      "rating": 9.4,
+      "progress": {
+        "watched": 0,
+        "total": 0
+      },
+      "year": "1996",
+      "genres": [
+        "智斗",
+        "推理",
+        "漫画改",
+        "悬疑"
+      ],
+      "cover": "/assets/anime/covers/bili_33378.png",
+      "link": "https://www.bilibili.com/bangumi/play/ss33378",
+      "description": "主角工藤新一原本是一位颇具名声的高中生侦探，在目击黑暗组织的地下交易后，正准备追踪时却被突袭击昏，并被灌下代号为“APTX4869”的不明药物。后来虽然幸免于死，但身体就此缩小为小学时期的模样。之后他...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28228775",
+        "seasonId": "33378"
+      }
+    }
+  ]
+}
