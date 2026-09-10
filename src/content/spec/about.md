@@ -1,26 +1,30 @@
-# About Shirone
+# 关于我
 
-Welcome to the demo site of **Shirone** (白音) — an expressive, anime-inspired blog theme built on the **Material 3 Expressive (M3E)** design system.
+你好，我是 **亖月三日君寻**。
 
-::github{repo="LyraVoid/Shirone"}
+目前主要关注 **人工智能、SAR 图像目标识别、轻量化深度学习与可解释人工智能**，平时会整理学习资料、记录实验过程，也会尝试把人工智能应用到教学与日常工具中。
 
-## ✦ Design & Philosophy
+这个博客是我的个人知识记录站。我会在这里分享研究笔记、技术实践、开源项目以及生活中的一些想法，希望把零散的探索沉淀成可以持续回顾的内容，也希望这些记录能为遇到相似问题的人提供一点帮助。
 
-Shirone aims to combine the warmth of expressive anime aesthetics with the rigor of modern web engineering:
+## 我在做什么
 
-- **Dynamic Chromatic Spell**: Full dynamic HCT palette generation responding seamlessly to light/dark modes and user preferences with zero layout shifts.
-- **Seamless Shell Navigation**: Persistent application shell driven by Swup for continuous music playback, smooth page transitions, and preserved state.
-- **Rich Story Grimoire**: Markdown and MDX authoring with KaTeX math, Mermaid diagrams, interactive admonitions, expressive code blocks, and adaptive image galleries.
-- **Zero Extra Burden**: Optional integrations (comments, analytics, music widgets) load dynamically on demand — zero DOM footprint and zero bundle overhead when disabled.
+- 学习 SAR 自动目标识别与 MSTAR 数据集相关方法
+- 探索轻量化模型和物理可解释人工智能
+- 开发课堂 AI 助手及可复用的 Agent Skills
+- 维护个人博客，记录学习和项目进展
 
-## ✦ Tech Stack
+## 我的项目
 
-- **Framework**: [Astro 7](https://astro.build/) & [Svelte 5](https://svelte.dev/) (Runes-driven islands)
-- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/) & [Stylus](https://stylus-lang.com/)
-- **Design Standard**: [Material 3 Expressive](https://m3.material.io/)
-- **Typography**: Outfit & Yozai (悠哉圆体) with automated build-time subsetting
-- **Search Engine**: [Pagefind](https://pagefind.app/) offline full-text search
+::github{repo="omae11/in-class-ai-assistant"}
 
-## ✦ Credits
+::github{repo="omae11/hanako-skills"}
 
-- **Font**: [Yozai Font (悠哉字体)](https://github.com/lxgw/yozai-font) by [lxgw](https://github.com/lxgw)
+::github{repo="omae11/MSTAR-dataset"}
+
+## 找到我
+
+- **个人网站**：[258931.xyz](https://258931.xyz/)
+- **GitHub**：[@omae11](https://github.com/omae11)
+- **哔哩哔哩**：[UID 302087](https://space.bilibili.com/302087)
+
+感谢你来到这里，希望你能在这个博客里发现一些有意思的内容。

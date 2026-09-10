@@ -41,6 +41,38 @@ export const projectsData: ProjectItem[] = [
 		icon: "material-symbols:extension-outline-rounded",
 		repository: "https://github.com/lyravoid/KernelPatch",
 	},
+	{
+		key: "in-class-ai-assistant",
+		title: "In-Class AI Assistant",
+		summary: "面向课堂场景的 AI 助手项目，用于探索人工智能辅助教学与课堂交互。",
+		category: "ai-tools",
+		phase: "building",
+		technologies: ["AI", "Education", "Assistant"],
+		icon: "material-symbols:school-outline-rounded",
+		repository: "https://github.com/omae11/in-class-ai-assistant",
+	},
+	{
+		key: "hanako-skills",
+		title: "Hanako Skills",
+		summary:
+			"为 HanaAgent 构建的自定义技能集，包含花瓣图片采集和通用反爬工作流。",
+		category: "ai-tools",
+		phase: "building",
+		technologies: ["Agent Skills", "Python", "Playwright"],
+		icon: "material-symbols:extension-outline-rounded",
+		repository: "https://github.com/omae11/hanako-skills",
+	},
+	{
+		key: "mstar-dataset",
+		title: "MSTAR Dataset",
+		summary:
+			"面向 SAR 自动目标识别研究的 MSTAR 数据集镜像，包含 SOC 强度图和原始复数数据子集。",
+		category: "research",
+		phase: "shipped",
+		technologies: ["SAR", "MSTAR", "Computer Vision"],
+		icon: "material-symbols:database-outline-rounded",
+		repository: "https://github.com/omae11/MSTAR-dataset",
+	},
 ];
 
 /** 获取所有项目数据列表 */

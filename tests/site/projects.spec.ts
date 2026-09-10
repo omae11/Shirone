@@ -1,6 +1,6 @@
 import { expect, test } from "@playwright/test";
 
-const PROJECT_COUNT = 3;
+const PROJECT_COUNT = 6;
 
 test.describe("项目页", () => {
 	test.beforeEach(async ({ page }) => {
@@ -15,7 +15,7 @@ test.describe("项目页", () => {
 		);
 		await expect(page.locator(".page-header__title")).toHaveText("Projects");
 		await expect(page.locator(".projects-section__count")).toHaveText(
-			"3 projects",
+			"6 projects",
 		);
 
 		const shirone = page.locator('[data-project="shirone"]');
@@ -55,6 +55,31 @@ test.describe("项目页", () => {
 		await expect(
 			kernelpatch.getByRole("link", { name: "View source" }),
 		).toHaveAttribute("href", "https://github.com/lyravoid/KernelPatch");
+
+		const inClassAssistant = page.locator(
+			'[data-project="in-class-ai-assistant"]',
+		);
+		await expect(inClassAssistant.locator("h2")).toHaveText(
+			"In-Class AI Assistant",
+		);
+		await expect(
+			inClassAssistant.getByRole("link", { name: "View source" }),
+		).toHaveAttribute(
+			"href",
+			"https://github.com/omae11/in-class-ai-assistant",
+		);
+
+		const hanakoSkills = page.locator('[data-project="hanako-skills"]');
+		await expect(hanakoSkills.locator("h2")).toHaveText("Hanako Skills");
+		await expect(
+			hanakoSkills.getByRole("link", { name: "View source" }),
+		).toHaveAttribute("href", "https://github.com/omae11/hanako-skills");
+
+		const mstarDataset = page.locator('[data-project="mstar-dataset"]');
+		await expect(mstarDataset.locator("h2")).toHaveText("MSTAR Dataset");
+		await expect(
+			mstarDataset.getByRole("link", { name: "View source" }),
+		).toHaveAttribute("href", "https://github.com/omae11/MSTAR-dataset");
 	});
 
 	test("直接加载时导航高亮与侧栏页面过滤正确", async ({ page }) => {
