@@ -1,6 +1,6 @@
 {
   "mode": "external",
-  "hidden": false,
+  "hidden": true,
   "title": "Protected image set",
   "description": "A password-protected album backed by the reusable protected-content protocol.",
   "date": "2025-05-22",

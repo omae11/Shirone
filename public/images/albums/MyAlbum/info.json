@@ -1,0 +1,176 @@
+{
+  "mode": "external",
+  "hidden": false,
+  "title": "我的相册",
+  "description": "记录镜头里的风景与日常。",
+  "date": "2026-09-10",
+  "location": "",
+  "tags": ["摄影", "日常"],
+  "layout": "masonry",
+  "columns": 3,
+  "cover": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947218633_IMG_0060.jpeg",
+  "photos": [
+    {
+      "id": "photo-01",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947218633_IMG_0060.jpeg",
+      "alt": "相册照片 01",
+      "title": "照片 01",
+      "tags": [],
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "id": "photo-02",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947213115_IMG_0069.jpeg",
+      "alt": "相册照片 02",
+      "title": "照片 02",
+      "tags": [],
+      "width": 2048,
+      "height": 1154
+    },
+    {
+      "id": "photo-03",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947216017_IMG_0091.jpeg",
+      "alt": "相册照片 03",
+      "title": "照片 03",
+      "tags": [],
+      "width": 1547,
+      "height": 2017
+    },
+    {
+      "id": "photo-04",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947215251_IMG_0094.jpeg",
+      "alt": "相册照片 04",
+      "title": "照片 04",
+      "tags": [],
+      "width": 1460,
+      "height": 2048
+    },
+    {
+      "id": "photo-05",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947214533_IMG_0118.jpeg",
+      "alt": "相册照片 05",
+      "title": "照片 05",
+      "tags": [],
+      "width": 1468,
+      "height": 2048
+    },
+    {
+      "id": "photo-06",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947207226_IMG_0090.jpeg",
+      "alt": "相册照片 06",
+      "title": "照片 06",
+      "tags": [],
+      "width": 2048,
+      "height": 1365
+    },
+    {
+      "id": "photo-07",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947205270_IMG_0133.jpeg",
+      "alt": "相册照片 07",
+      "title": "照片 07",
+      "tags": [],
+      "width": 2048,
+      "height": 1121
+    },
+    {
+      "id": "photo-08",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947205732_IMG_0134.jpeg",
+      "alt": "相册照片 08",
+      "title": "照片 08",
+      "tags": [],
+      "width": 2048,
+      "height": 1114
+    },
+    {
+      "id": "photo-09",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947211454_IMG_0150.jpeg",
+      "alt": "相册照片 09",
+      "title": "照片 09",
+      "tags": [],
+      "width": 1441,
+      "height": 2048
+    },
+    {
+      "id": "photo-10",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947201286_IMG_0165.jpeg",
+      "alt": "相册照片 10",
+      "title": "照片 10",
+      "tags": [],
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "id": "photo-11",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947197940_IMG_0164.jpeg",
+      "alt": "相册照片 11",
+      "title": "照片 11",
+      "tags": [],
+      "width": 2048,
+      "height": 1036
+    },
+    {
+      "id": "photo-12",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947202064_IMG_0173.jpeg",
+      "alt": "相册照片 12",
+      "title": "照片 12",
+      "tags": [],
+      "width": 1448,
+      "height": 2048
+    },
+    {
+      "id": "photo-13",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947195898_IMG_0168.jpeg",
+      "alt": "相册照片 13",
+      "title": "照片 13",
+      "tags": [],
+      "width": 2048,
+      "height": 1080
+    },
+    {
+      "id": "photo-14",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947193590_IMG_0291.jpeg",
+      "alt": "相册照片 14",
+      "title": "照片 14",
+      "tags": [],
+      "width": 1918,
+      "height": 1400
+    },
+    {
+      "id": "photo-15",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947203585_IMG_0269.jpeg",
+      "alt": "相册照片 15",
+      "title": "照片 15",
+      "tags": [],
+      "width": 1143,
+      "height": 2048
+    },
+    {
+      "id": "photo-16",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947191319_IMG_0331.jpeg",
+      "alt": "相册照片 16",
+      "title": "照片 16",
+      "tags": [],
+      "width": 2048,
+      "height": 1307
+    },
+    {
+      "id": "photo-17",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947193469_IMG_0340.jpeg",
+      "alt": "相册照片 17",
+      "title": "照片 17",
+      "tags": [],
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "id": "photo-18",
+      "src": "https://cloudflare-imgbed-8h0.pages.dev/file/1788947183180_IMG_0403.jpeg",
+      "alt": "相册照片 18",
+      "title": "照片 18",
+      "tags": [],
+      "width": 1920,
+      "height": 1080
+    }
+  ]
+}
