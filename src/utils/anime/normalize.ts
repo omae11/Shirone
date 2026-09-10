@@ -18,10 +18,12 @@ const STATUS_ORDER: Record<AnimeStatus, number> = {
 };
 
 const SAFE_HTTPS_URL = /^https:\/\/[^\s/$.?#].[^\s]*$/i;
-const SAFE_RELATIVE_PATH = /^\/[a-zA-Z0-9_\-./]+$/;
+const SAFE_RELATIVE_PATH = /^\/[a-zA-Z0-9_\-./]+(?:\?v=[a-zA-Z0-9_-]{1,64})?$/;
 
 /**
- * 校验并清洗 URL / 图片地址（只允许 HTTPS 或站内相对路径，阻断 javascript: 与非法 scheme）
+ * 校验并清洗 URL / 图片地址。
+ * 站内相对路径仅额外允许受限的 `?v=<token>` 缓存版本参数，阻断任意查询参数、
+ * javascript: 与其他非法 scheme。
  */
 export function sanitizeMediaUrl(url: unknown): string | undefined {
 	if (typeof url !== "string") return undefined;

@@ -107,6 +107,15 @@ test.describe("Anime 数据源与配置解析契约", () => {
 		expect(sanitizeMediaUrl("/assets/anime/local.webp")).toBe(
 			"/assets/anime/local.webp",
 		);
+		expect(
+			sanitizeMediaUrl("/assets/anime/covers/bili_42176.png?v=2e7e4701"),
+		).toBe("/assets/anime/covers/bili_42176.png?v=2e7e4701");
+		expect(
+			sanitizeMediaUrl("/assets/anime/local.webp?width=640"),
+		).toBeUndefined();
+		expect(
+			sanitizeMediaUrl("/assets/anime/local.webp?v=valid&unsafe=true"),
+		).toBeUndefined();
 		expect(sanitizeExternalLink("javascript:void(0)")).toBeUndefined();
 		expect(sanitizeExternalLink("http://example.com")).toBe(
 			"https://example.com",
