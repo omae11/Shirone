@@ -6,7 +6,9 @@ import { withUserConfig } from "../utils/config-overlay.ts";
  * 类型见 src/types/config.ts。
  */
 export const profileConfig: ProfileConfig = withUserConfig("profile", {
-	avatar: "assets/images/deepseek.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	// avatar: "assets/images/deepseek.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar:
+		"https://cloudflare-imgbed-8h0.pages.dev/file/1789188437905_ChatGPT_Image_2026年9月12日_12_46_19.webp",
 	name: "亖月三日 君寻",
 	bio: "好女孩蕾塞",
 	links: [
