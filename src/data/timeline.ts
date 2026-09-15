@@ -3,6 +3,90 @@ import type { TimelineItem } from "@/types/timelineConfig";
 
 export const timelineData: TimelineItem[] = [
 	{
+		title: "整理 Mavic 3T 视频接入 YOLO 的方案",
+		date: "2026.09.15",
+		category: "project",
+		subtitle: "无人机目标检测研究笔记",
+		description:
+			"从遥控器 HDMI 输出与电脑输入的区别出发，整理通过采集卡或 RTMP 将 Mavic 3T 图传接入 YOLO 的方法，为后续设备实测准备操作步骤。",
+		highlights: [
+			"梳理局域网组网、RTMP 收流与播放器验证流程",
+			"整理 YOLO11 命令行和 Python 接入示例",
+			"区分推理速度与端到端延迟，记录断流和画面异常的排查方法",
+		],
+		tags: ["无人机", "Mavic 3T", "YOLO", "RTMP"],
+		links: [
+			{
+				label: "阅读文章",
+				url: "/posts/blog/20260915/",
+				icon: "material-symbols:article-outline-rounded",
+			},
+		],
+		icon: "material-symbols:videocam-outline-rounded",
+		featured: true,
+	},
+	{
+		title: "记录 GAN 迷彩生成项目阶段进展",
+		date: "2026.09.13",
+		category: "project",
+		subtitle: "项目阶段记录",
+		description:
+			"围绕“类别控制图案结构、背景控制配色”的目标，记录 GAN 迷彩生成原型的实现思路、对比结果与尚未解决的问题。",
+		highlights: [
+			"明确迷彩类别与背景颜色的条件输入",
+			"探索保留图案结构和纹理尺度的生成方式",
+			"整理当前原型结果与后续改进方向",
+		],
+		tags: ["GAN", "迷彩", "人工智能", "研究笔记"],
+		links: [
+			{
+				label: "阅读阶段记录",
+				url: "/posts/blog/202609122/",
+				icon: "material-symbols:article-outline-rounded",
+			},
+		],
+		icon: "material-symbols:code-rounded",
+	},
+	{
+		title: "记录 DeepSeek 与 GPT 的一次问答对比",
+		date: "2026.09.12",
+		category: "life",
+		subtitle: "学习随记",
+		description:
+			"学习 Haar 级联人脸检测时，围绕特征数量的计算过程，对比 DeepSeek 与 GPT 的回答，并用截图记录这次具体问答的体验。",
+		tags: ["人工智能", "DeepSeek", "GPT", "学习笔记"],
+		links: [
+			{
+				label: "阅读文章",
+				url: "/posts/blog/20260912/",
+				icon: "material-symbols:article-outline-rounded",
+			},
+		],
+		icon: "material-symbols:forum-outline-rounded",
+	},
+	{
+		title: "梳理对抗性伪装的发展脉络",
+		date: "2026.09.11",
+		category: "project",
+		subtitle: "研究笔记",
+		description:
+			"整理对抗性伪装的概念、发展阶段与开放挑战，关注从物理贴片到三维纹理、跨模态和生成式方法的技术演进。",
+		highlights: [
+			"区分对抗性伪装与伪装物体检测",
+			"梳理代表方法与技术演进主线",
+			"总结自然性、鲁棒性和跨环境泛化等研究挑战",
+		],
+		tags: ["对抗性伪装", "人工智能", "国防科技", "研究笔记"],
+		links: [
+			{
+				label: "阅读文章",
+				url: "/posts/blog/20260911/",
+				icon: "material-symbols:article-outline-rounded",
+			},
+		],
+		icon: "material-symbols:neurology-rounded",
+	},
+	{
 		title: "整理 SAR 目标识别学习资源",
 		date: "2026.09.09",
 		category: "life",
