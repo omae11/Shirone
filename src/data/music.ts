@@ -21,6 +21,27 @@ export const musicTracks: readonly TrackDescriptor[] = [
 		source: "/assets/music/url/9lana-rasen-acoustic.mp3",
 	},
 	{
+		id: "maomao_op",
+		title: "なんもねえ",
+		artist: "忘れらんねえよ",
+		cover: "assets/images/music/maomao_op.webp",
+		source: "/assets/music/url/忘れらんねえよ+-+なんもねえ.mp3",
+	},
+	{
+		id: "maomao_ed",
+		title: "煙とブルー",
+		artist: "ネクライトーキー",
+		cover: "assets/images/music/maomao_ed.webp",
+		source: "/assets/music/url/煙とブルー.mp3",
+	},
+	{
+		id: "sunny",
+		title: "Sunny",
+		artist: "milet",
+		cover: "assets/images/music/sunny.webp",
+		source: "/assets/music/url/Sunny.mp3",
+	},
+	{
 		id: "dazbee",
 		title: "口笛で愛は歌えない",
 		artist: "Dazbee",
