@@ -1,0 +1,11 @@
+# 配图生成记录
+
+工具：内置 image_gen；接口未提供具体模型版本选择，未指定或验证 image2.5。
+
+## gray-box.png
+
+Use case: scientific-educational. Create a polished editorial illustration for a Chinese study blog about ordinary human visual perception. Landscape 1536x1024. A single unmarked matte gray rectangular utility storage box sitting on a concrete floor immediately in front of an aged gray concrete wall, three quarter view. Box paint and wall have similar middle gray hue, but box has straight crisp edges and smooth surface, wall has subtle mottling and fine cracks. Soft directional light from upper right casts a coherent visible shadow to lower left. Restrained realistic architectural illustration, subtle paper texture, warm neutral gray palette, clear informative composition, box centered and fully visible, generous surrounding wall. No people, no military objects, no camouflage net, no text, no labels, no arrows, no watermark. This illustrates why matching color does not erase shape, texture and shadow cues, not an experiment or concealment design.
+
+## background-textures.png
+
+Use case: scientific-educational. Landscape educational editorial illustration, 1536x1024, three equally sized rectangular panels horizontally aligned on clean warm off-white page, generous margins, no text whatsoever. All panels show monochrome graphite gray surface textures of approximately similar average tone. Left panel fine irregular speckled mottled stone texture with small grains. Middle panel broad irregular clustered patches of graphite light and dark gray, visibly much coarser than left. Right panel fine narrow mostly vertical irregular streaks resembling brushed bark, strong vertical orientation. Flat front view, no perspective, no objects, no shadows, no gradients, no extra insets. Elegant tactile realistic pencil and material study, visually clear differences in grain scale and direction. Intended to illustrate that similar average gray does not mean same spatial structure; conceptual illustration not calibrated scientific stimulus. No labels, no lettering, no numbers, no watermarks.
