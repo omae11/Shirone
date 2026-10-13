@@ -150,6 +150,19 @@
       "credit": "Lockheed Martin historical feature, Operation Camouflage, 2020-10-01",
       "rights": "Source page does not state a separate open-image licence; reproduced as historical illustration with source attribution",
       "changes": "None"
+    },
+    {
+      "files": [
+        "space-infrared-principle-2025.png"
+      ],
+      "creator": "Bing Qin, Huanzheng Zhu, Rongxuan Zhu, Meng Zhao, Min Qiu and Qiang Li",
+      "date": "2025-03-26",
+      "source": "https://www.nature.com/articles/s41377-025-01824-y",
+      "figure": 1,
+      "download": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-025-01824-y/MediaObjects/41377_2025_1824_Fig1_HTML.png",
+      "rights": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None; entire original figure retained"
     }
   ]
 }
