@@ -1,0 +1,155 @@
+{
+  "checked_at": "2026-10-13",
+  "assets": [
+    {
+      "files": [
+        "camouflage-timeline.png",
+        "camouflage-timeline.svg"
+      ],
+      "kind": "original conceptual illustration",
+      "basis": "Article references 1, 3, 5, 6, 11, 17, 20, 23, 24, 25 and 26",
+      "note": "Representative milestones; no measured data; fixed export palette for article content."
+    },
+    {
+      "files": [
+        "multispectral-signatures.png",
+        "multispectral-signatures.svg"
+      ],
+      "kind": "original conceptual illustration",
+      "basis": "Article references 9 and 10",
+      "note": "Not a wavelength-scale chart or product performance measurement."
+    },
+    {
+      "files": [
+        "gun-net-1916-1917.jpg"
+      ],
+      "creator": "British Official Photographer",
+      "date": "c 1916-1917",
+      "collection": "Australian War Memorial, EZ0176",
+      "source": "https://www.awm.gov.au/collection/C358197",
+      "download": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/EZ0176/screen/4216093.JPG",
+      "rights": "Collection record: copyright expired, public domain",
+      "changes": "None"
+    },
+    {
+      "files": [
+        "net-factory-1942.jpg"
+      ],
+      "creator": "Julian F. Fowlkes",
+      "date": "1942",
+      "collection": "Library of Congress, LC-USZ62-134614",
+      "source": "https://www.loc.gov/pictures/item/2005684116/",
+      "download": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c34000/3c34600/3c34614v.jpg",
+      "rights": "Collection record: no known restrictions on publication",
+      "context": "Japanese American inmate labor at Santa Anita Assembly Center during forced removal and internment",
+      "changes": "None"
+    },
+    {
+      "files": [
+        "../20261005-assets/engineer-1975-page3.png"
+      ],
+      "creator": "U.S. Army, The Engineer",
+      "date": "Fall 1975",
+      "source": "https://home.army.mil/wood/7217/8429/9084/Fall_1975.pdf",
+      "page": 3,
+      "note": "Reuses the local scan already accompanying the October 5 article."
+    },
+    {
+      "files": [
+        "ulcans-arctic-2018.jpg"
+      ],
+      "creator": "U.S. Army",
+      "date": "2018-06-04",
+      "source": "https://www.army.mil/article/206368/army_netting_modernized_camo",
+      "download": "https://api.army.mil/e2/c/images/2018/06/04/519420/size0-full.jpg",
+      "credit": "Source page photo credit: U.S. Army",
+      "changes": "None"
+    },
+    {
+      "files": [
+        "dual-band-metasurface-2026.png"
+      ],
+      "creator": "Roy Maman, Noa Mazurski, Ilya Goykhman and Uriel Levy",
+      "date": "2026-07-23",
+      "source": "https://doi.org/10.1038/s41377-026-02426-y",
+      "download": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-026-02426-y/MediaObjects/41377_2026_2426_Fig4_HTML.png",
+      "figure": 4,
+      "rights": "CC BY 4.0",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None; entire original figure retained"
+    },
+    {
+      "files": [
+        "user-vehicle-roof-cage.webp"
+      ],
+      "kind": "user-supplied reference image",
+      "supplied_filename": "cop cage.webp",
+      "source": "https://www.armyrecognition.com/news/army-news/2026/chinas-type-99a-deployment-in-russia-shows-how-pla-heavy-armor-is-adapting-to-modern-warfare",
+      "creator": "Source page image credit: Chinese State Media; CCTV-7 visible in image",
+      "date": "Not independently verified",
+      "location": "Exercise in Russia, as reported by Army Recognition; specific image location not independently verified",
+      "rights": "Not independently verified; supplied for use in this article",
+      "changes": "None",
+      "note": "Source page supplied by user and checked. Exercise imagery; not evidence of actual combat performance, infrared properties, or standardized fleet-wide adoption.",
+      "source_title": "China’s Type 99A Deployment in Russia Shows How PLA Heavy Armor Is Adapting to Modern Warfare",
+      "source_author": "Teoman S. Nicanci",
+      "source_published": "2026-10-06",
+      "reported_subject": "Chinese Type 99A main battle tanks at Russia’s Center-2026 strategic exercise"
+    },
+    {
+      "files": [
+        "user-road-antidrone-net.webp"
+      ],
+      "kind": "user-supplied reference image",
+      "supplied_filename": "防无人机orFPV防护网.webp",
+      "source": "https://www.whcp.org/2026-10-05/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+      "creator": "Iryna Rybakova / Ukrainian 93rd Mechanized Brigade",
+      "date": "2026-09-12",
+      "location": "Druzhkivka, Ukraine",
+      "rights": "Credited to Ukrainian military via AP; source does not state an open licence",
+      "changes": "None",
+      "credit": "Ukrainian military via AP",
+      "article_author": "Greg Myre",
+      "article_publisher": "NPR, republished by WHCP",
+      "article_date": "2026-10-05"
+    },
+    {
+      "files": [
+        "vehicle-net-types-1944.png"
+      ],
+      "creator": "U.S. War Department",
+      "date": "1944-04",
+      "source": "https://ciehub.info/ref/FM/5-20B_1944.pdf",
+      "publication": "FM 5-20B: Camouflage of Vehicles",
+      "printed_page": 42,
+      "pdf_page": 46,
+      "rights": "U.S. government historical publication",
+      "changes": "Full page rasterized; no crops or alterations to content"
+    },
+    {
+      "files": [
+        "net-making-basseux-1918.jpg"
+      ],
+      "creator": "John Warwick Brooke",
+      "date": "1918-06-16",
+      "collection": "Imperial War Museums, Q 6752",
+      "source": "https://www.iwm.org.uk/collections/item/object/205091950",
+      "download": "https://media.iwm.org.uk/ciim5/15/842/mid_000000.jpg",
+      "rights": "IWM Non-Commercial Licence; attribution: Image: IWM (Q 6752)",
+      "license": "https://www.iwm.org.uk/corporate/privacy-copyright",
+      "changes": "None; low-resolution collection image displayed at reduced width"
+    },
+    {
+      "files": [
+        "lockheed-camouflage-1940s.jpg"
+      ],
+      "creator": "Photographer not named on source page",
+      "date": "World War II; exact exposure date not specified",
+      "source": "https://www.lockheedmartin.com/en-us/news/features/history/camouflage.html",
+      "download": "https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/photo/historical-programs/camouflage/burbank-camo-lead.jpg",
+      "credit": "Lockheed Martin historical feature, Operation Camouflage, 2020-10-01",
+      "rights": "Source page does not state a separate open-image licence; reproduced as historical illustration with source attribution",
+      "changes": "None"
+    }
+  ]
+}
