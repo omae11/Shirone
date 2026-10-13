@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="590" viewBox="0 0 1000 590" role="img" aria-labelledby="title desc">
+<title id="title">伪装特征怎样连接到观察任务？</title>
+<desc id="desc">物理特征通过距离、大气和成像系统转变为图像信息，任务模型与观察试验用于评估发现识别表现。材料指标不能直接代替任务概率。</desc>
+<!-- Fixed article-content palette ensures diagram readability in either site theme. Original conceptual illustration, no measured data. -->
+<style>text{font-family:'Microsoft YaHei','Noto Sans CJK SC',sans-serif;fill:#292333}.title{font-size:30px;font-weight:700}.sub{font-size:20px;fill:#62596d}.card-title{font-size:24px;font-weight:700}.body{font-size:22px}.small{font-size:19px;fill:#62596d}</style>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#75438a"/></marker></defs>
+<rect width="1000" height="590" rx="24" fill="#faf7fc"/>
+<text x="44" y="58" class="title">伪装特征怎样连接到观察任务？</text>
+<text x="44" y="95" class="sub">三个层次分别回答不同问题；模型需要明确输入和适用条件。</text>
+<rect x="44" y="145" width="272" height="206" rx="18" fill="#eee6f3"/>
+<rect x="364" y="145" width="272" height="206" rx="18" fill="#e3f0f1"/>
+<rect x="684" y="145" width="272" height="206" rx="18" fill="#eee6f3"/>
+<text x="66" y="184" class="card-title">01 目标与背景特征</text>
+<text x="66" y="226" class="body">反射率 / 发射率</text>
+<text x="66" y="262" class="body">亮度 / 辐射差异</text>
+<text x="66" y="298" class="body">局部结构与分布</text>
+<text x="66" y="331" class="small">回答：目标与背景差多少？</text>
+<text x="386" y="184" class="card-title">02 传播与成像</text>
+<text x="386" y="226" class="body">距离 / 大气 / 角度</text>
+<text x="386" y="262" class="body">空间采样 / MTF</text>
+<text x="386" y="298" class="body">噪声 / 显示条件</text>
+<text x="386" y="331" class="small">回答：还剩多少可用信息？</text>
+<text x="706" y="184" class="card-title">03 观察任务表现</text>
+<text x="706" y="226" class="body">发现 / 识别 / 确认</text>
+<text x="706" y="262" class="body">成功概率 / 搜索时间</text>
+<text x="706" y="298" class="body">任务条件 / 对照结果</text>
+<text x="706" y="331" class="small">回答：这项任务完成得怎样？</text>
+<path d="M322 248H355" stroke="#75438a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M642 248H675" stroke="#75438a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M180 351V378M820 351V378" stroke="#cfc2d7" stroke-width="2"/>
+<rect x="44" y="381" width="432" height="78" rx="14" fill="#eee6f3"/>
+<rect x="524" y="381" width="432" height="78" rx="14" fill="#e3f0f1"/>
+<text x="66" y="412" class="body">特征测量：充分分辨指定区域</text>
+<text x="66" y="441" class="small">记录距离、校准、区域和不确定度</text>
+<text x="546" y="412" class="body">任务试验：在对应距离检验表现</text>
+<text x="546" y="441" class="small">记录设备、观察时间和判定条件</text>
+<rect x="44" y="493" width="912" height="70" rx="16" fill="#eee6f3"/>
+<text x="66" y="522" class="body">Johnson–MRTD 或 TTP：在模型条件下连接成像质量与任务表现。</text>
+<text x="66" y="550" class="small">物理指标、图像差异与发现概率需要区分；此图是关系示意，不是性能预测。</text>
+</svg>
