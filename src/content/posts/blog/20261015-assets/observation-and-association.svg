@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">观测暂时缺失与身份关联中断的区别</title>
+  <desc id="desc">通用视频的四个静态时间格中，第一、第二和第四格出现相似的抽象对象，第三格无当前观测且未绘制任何预测位置。下方独立的身份记录说明历史信息可以保留，但后续观测是否属于同一对象仍需持续核验。图中的时间格不表达运动路线，也不表示已确认的关联结果。</desc>
+  <!-- Original article illustration. Fixed independent content palette; no motion route or predicted detection. -->
+  <style>
+    text{font-family:'Microsoft YaHei','Noto Sans CJK SC',sans-serif;fill:#33362f}
+    .title{font-size:38px;font-weight:700}.sub{font-size:24px;fill:#66675b}
+    .head{font-size:26px;font-weight:700}.body{font-size:24px}
+    .small{font-size:22px;fill:#66675b}.olive{fill:#697255}.brown{fill:#937156}
+  </style>
+  <defs>
+    <g id="object"><circle r="35" fill="#d0d5bf" stroke="#697255" stroke-width="4"/><path d="M-12 14V-14H12" fill="none" stroke="#4f5e43" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </defs>
+  <rect width="1200" height="820" fill="#f5f1e7"/>
+  <text x="58" y="72" class="title">观测暂时缺失，未必等于关联中断</text>
+  <text x="58" y="114" class="sub">通用视频概念示意：当前观测与跨帧身份判断分开记录。</text>
+  <text x="58" y="173" class="head">当前帧：实际获得了什么观测</text>
+
+  <g stroke="#b8b4a6" stroke-width="2" fill="none">
+    <rect x="58" y="207" width="240" height="170"/>
+    <rect x="338" y="207" width="240" height="170"/>
+    <rect x="618" y="207" width="240" height="170" stroke-dasharray="7 7"/>
+    <rect x="898" y="207" width="240" height="170"/>
+  </g>
+  <text x="76" y="240" class="small">时刻 1</text>
+  <text x="356" y="240" class="small">时刻 2</text>
+  <text x="636" y="240" class="small">时刻 3</text>
+  <text x="916" y="240" class="small">时刻 4</text>
+  <use href="#object" transform="translate(178 300)"/>
+  <use href="#object" transform="translate(458 300)"/>
+  <text x="738" y="307" class="body brown" text-anchor="middle">无当前观测</text>
+  <use href="#object" transform="translate(1018 300)"/>
+  <text x="178" y="416" class="body" text-anchor="middle">观测 ①</text>
+  <text x="458" y="416" class="body" text-anchor="middle">观测 ②</text>
+  <text x="738" y="416" class="body brown" text-anchor="middle">观测缺失</text>
+  <text x="1018" y="416" class="body" text-anchor="middle">观测 ③</text>
+
+  <path d="M58 451H1142" stroke="#d3cbbb" stroke-width="2"/>
+  <text x="58" y="500" class="head">跨帧身份：这些观测是否属于同一对象</text>
+  <text x="58" y="549" class="body">① 与 ② 的关联记录可以保留；时刻 3 的缺失并不提供新的身份观测。</text>
+  <text x="58" y="591" class="body">③ 是否延续此前身份，仍需依据可用信息核验。</text>
+  <text x="58" y="650" class="body olive">观测缺失：当前时刻没有可用观测。</text>
+  <text x="58" y="692" class="body olive">关联中断：前后观测的身份连续性无法得到确认。</text>
+  <path d="M58 727H1142" stroke="#d3cbbb" stroke-width="2"/>
+  <text x="58" y="765" class="small">同样的外观符号不表示身份已经确认；历史记录也不等于当前检测。</text>
+  <text x="58" y="799" class="small">概念示意，非实测结果。</text>
+</svg>

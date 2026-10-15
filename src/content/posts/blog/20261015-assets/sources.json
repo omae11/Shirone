@@ -1,0 +1,44 @@
+{
+  "created_on": "2026-10-15",
+  "assets": [
+    {
+      "file": "cover.png",
+      "kind": "AI-generated editorial illustration",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: stylized-concept\nAsset type: wide editorial cover illustration for a Chinese research notebook about camouflage across the military kill chain.\nPrimary request: create a restrained, thoughtful science-editorial image about the difference between seeing an object and understanding it. Landscape 16:9 composition, intended for a blog cover.\nScene: an aerial-looking landscape made of muted olive woodland, weathered stone and sand textures, layered like printed topographic paper and translucent optical glass. One small, generic geometric object is partially discernible through the layered terrain; its boundaries subtly merge with the surrounding textures. A few very fine, incomplete graphite registration lines suggest observation and uncertainty, without crosshairs or targeting HUDs. The image should read as camouflage and perception research, quiet and analytical.\nStyle: premium editorial mixed-media illustration, tactile paper grain, realistic natural texture, precise but understated geometry, generous breathing room. Distinctive and composed, not a generic futuristic AI illustration. Muted olive, graphite, warm grey and off-white; one very small desaturated amber accent.\nConstraints: no written text, no letters, no numbers, no logos, no watermark; no weapons, soldiers, military vehicles, explosions, skulls, radar screens, neon glow or dramatic warfare. Keep the essential subject in the central half so the image survives cropping. This is conceptual art, not a technical deployment diagram.",
+      "note": "Conceptual cover, not a remote-sensing observation or measured result. Generated image copied into the article asset directory without image editing."
+    },
+    {
+      "file": "false-target-and-background.svg",
+      "kind": "Original vector concept illustration",
+      "note": "Distinguishes simulated-object features from target/background separability. Conceptual marks only; no measured returns, engineering parameters, array layout or performance prediction."
+    },
+    {
+      "file": "observation-and-association.svg",
+      "kind": "Original vector concept illustration",
+      "note": "Illustrates the difference between a missing observation and an identity-association hypothesis. Synthetic generic objects, no measured tracking output."
+    },
+    {
+      "file": "stages-and-information.svg",
+      "kind": "Original vector concept illustration",
+      "note": "Six information functions and feedback; links indicate functional relationships, not a mandatory serial timeline."
+    },
+    {
+      "file": "ulcans-arctic-2018.jpg",
+      "kind": "Source photograph, reused from an existing local article asset",
+      "creator": "U.S. Army",
+      "source": "https://www.army.mil/article/206368/army_netting_modernized_camo",
+      "source_publication_date": "2018-06-04",
+      "original_image": "https://api.army.mil/e2/c/images/2018/06/04/519420/original.jpg",
+      "local_source": "../20261013-assets/ulcans-arctic-2018.jpg",
+      "credit": "U.S. Army",
+      "changes": "None",
+      "note": "Photograph illustrates visible appearance and setting. Publication date is not independently established exposure date; photograph does not demonstrate multispectral performance."
+    },
+    {
+      "file": "process-compression.svg",
+      "kind": "Original vector concept illustration",
+      "note": "Abstract illustration of parallel functions and preparation preceding observation; shapes are not measured task durations or a performance comparison."
+    }
+  ]
+}
